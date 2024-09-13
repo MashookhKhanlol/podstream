@@ -68,9 +68,6 @@ Start the server
 ```
 npm start
 ```
-### Here is live demo of our web app:
-
-[Screencast from 27-04-23 07:21:38 PM IST.webm](https://user-images.githubusercontent.com/64485885/234887002-60554cc9-c298-42bd-a310-42334f8717a8.webm)
 
 
 ### Here are some pictures of the web application:
@@ -79,7 +76,9 @@ npm start
 
 ![image](https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png)
 
-![image](https://user-images.githubusercontent.com/100614635/233979651-69b5dc7f-7c47-404b-9211-dd2a3140bcaa.png)
+![image](https://github.com/user-attachments/assets/cc4eda86-661f-471e-a474-1f470ce3c1d4)
+
+![image](https://github.com/user-attachments/assets/f1fa9c4b-ffe7-472b-898a-bb2417814a35)
 
 ![image](https://user-images.githubusercontent.com/100614635/233979805-0d1c2381-afb9-4f24-b935-7cef18ccc57f.png)
 
